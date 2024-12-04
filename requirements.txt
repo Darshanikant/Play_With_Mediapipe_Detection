@@ -1,0 +1,5 @@
+streamlit # Streamlit for the app interface
+mediapipe # MediaPipe for landmark detection and pose tracking
+opencv-python # OpenCV for video and image processing
+matplotlib # For visualization (used in image-based pose tracking)
+numpy  # Numerical computations
